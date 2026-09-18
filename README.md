@@ -56,4 +56,5 @@ For firmware, as my MCU is a STM32, I decided to use the STM32CUBEMX to program 
 
 ### Updates
 | Date | Description | PIC |
+|---|---|---|
 | Sept 17 2026 | Initial Upload | Thong |
